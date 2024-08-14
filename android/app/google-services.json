@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "383937941740",
+    "project_id": "chatfonsti",
+    "storage_bucket": "chatfonsti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383937941740:android:378b235f65c397969315c9",
+        "android_client_info": {
+          "package_name": "com.example.document_sharing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0xDoMQmGzX0sioxfCY_vZiLqoo8eMjXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
